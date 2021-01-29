@@ -1,1 +1,5 @@
 alert("welcome")
+alert("Training Day")
+alert("Love Jones")
+alert("This Christmas")
+alert("Bad Boys")
